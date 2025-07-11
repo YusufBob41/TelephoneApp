@@ -38,8 +38,9 @@ git clone https://github.com/YusufBob41/TelephoneApp.git
 
 ## 📸 Screenshots
 
-![Main Interface](Screenshots/Main_Interface.png)  
-![Splash Screen](Screenshots/Splash.png)
+
+![Splash](https://github.com/user-attachments/assets/4f7467df-e9be-40a5-acca-18824bf19030)
+![Main Interface](https://github.com/user-attachments/assets/a5f4722e-7f4e-46d6-bb2e-21e516d6fd3e)
 
 
 ---
